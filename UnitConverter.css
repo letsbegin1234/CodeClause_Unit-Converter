@@ -1,0 +1,58 @@
+input, label {
+	width: 100px;
+  border-radius: 3%;
+
+
+}
+button{
+	border-radius: 4px;
+    box-shadow: 2px 2px 3px #666;
+}
+body{
+	font-family: apple;
+	background-attachment: fixed;
+background-size: cover;
+  background-image:url(3.jpeg);
+}
+legend{
+	text-align: center;
+	font-family: apple;
+	  font-size: 1.3rem;
+		color: #FC4F4F;
+}
+.container {
+	float: left;
+	padding: 3px;
+	border-radius: 4px;
+	width: 110px;
+	background-color:#AEFEFF;
+	/* color:green; */
+}
+.b{
+	 display: flex;
+	 flex-direction: column-reverse;
+	  padding-left: 3%;
+}
+.c{
+	 display: flex;
+	 flex-direction: column;
+
+}
+.e{
+	 display: flex;
+	 flex-direction: row;
+	 padding-left: 10%;
+}
+
+/* a{
+  color: black;
+}
+body{
+  color: white;
+  font-family: apple;
+  /* background-image:url(cool.png);
+  background-repeat: no-repeat; */
+  /* background-position: center;
+  background-attachment: fixed;
+
+  background-size: cover; */
